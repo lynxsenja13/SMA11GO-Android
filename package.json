@@ -1,0 +1,14 @@
+{
+  "name": "sma11go-android",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/android": "^8.0.0",
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.0.0"
+  }
+}
