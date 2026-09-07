@@ -23,4 +23,4 @@ APK debug akan berada di `android/app/build/outputs/apk/debug/app-debug.apk`.
 
 Workflow pada `.github/workflows/build-apk.yml` akan membuat project Android dan menghasilkan APK debug sebagai artifact, sehingga komputer dengan RAM kecil tidak perlu menjalankan Android Studio. 
 
-SMA11GO Android Enhanced
+SMA11GO Android Enhanced Version
