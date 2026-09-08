@@ -5,6 +5,11 @@ const config: CapacitorConfig = {
   appName: 'SMA11GO',
   webDir: 'www',
 
+  server: {
+    url: 'https://sma11go.site.je/',
+    cleartext: false
+  },
+
   plugins: {
     SplashScreen: {
       launchAutoHide: true,
